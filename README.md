@@ -8,6 +8,8 @@
 <h1 align="center">Hi, I'm Jayavardhan Nakka 👋</h1>
 
 <p align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=Jayavardhan-016&style=flat-square&color=blue" alt="Profile Views">
 Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & UVM | Cadence Certified | RTL & Functional Verification | Open to VLSI Opportunities
 </p>
 
@@ -35,7 +37,7 @@ Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & U
 
 ### 🛠️ **Technical Skills**
 - **Languages:** Verilog, SystemVerilog, UVM, C, Python
-- **EDA Tools:** Cadence Genus, Xilinx, ModelSim, Proteus, Keil
+- **EDA Tools:** Cadence, Xilinx, ModelSim, Proteus, Keil
 - **Verification:** Functional, assertion, mailbox, transaction-level
 - **Digital Design:** RTL, simulation, debug
 - **Other:** IoT, 8051/8086 MCUs
@@ -46,7 +48,7 @@ Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & U
 - **B.Tech, ECE**  
   Aditya College of Engineering & Technology, JNTUK | 7.5 CGPA (2023–26)
 - **Diploma, ECE**  
-  Sai Ganapathi Polytechnic College | 73%
+  Sai Ganapathi Polytechnic College | 73% | (2020–23)
 
 ---
 
@@ -61,7 +63,6 @@ Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & U
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayavardhan-016&show_icons=true&theme=radical">
-  <img src="https://komarev.com/ghpvc/?username=Jayavardhan-016&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
@@ -69,5 +70,5 @@ Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & U
 ### 🤝 **Let’s Connect**
 - 📧 Email: vardhanjaya988@gmail.com
 - 📱 Phone: +91 9014240035
-- 🌐 Portfolio: [jayavardhan-016.github.io](https://jayavardhan-016.github.io/)
+- 🌐 [Portfolio](https://github.com/Jayavardhan-016)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nakkajayavardhan)
