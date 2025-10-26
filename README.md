@@ -6,7 +6,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Jayavardhan Nakka 👋</h1>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Jayavardhan-016&style=flat-square&color=blue" alt="Profile Views">
+  </p>
+
 <p align="center">
 Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & UVM | Cadence Certified | RTL & Functional Verification | Open to VLSI Opportunities
 </p>
