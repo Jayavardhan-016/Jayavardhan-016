@@ -99,7 +99,15 @@ I'm **Nakka Jayavardhan**, an **Electronics Engineer** specializing in **ASIC De
 - Gained full-cycle development experience from design to testing
 
 ---
-
+### 🌟 **Project Portfolio**
+| Project | Description & Features | Tech Stack | Links |
+|---------|-----------------------|------------|-------|
+| **SRAM Design & Verification** | Complete 8×8 SRAM RTL to synthesis, mailbox-based testbench, timing/power/area reports | Verilog, SystemVerilog, Cadence, Xilinx | [GitHub Repo](https://github.com/Jayavardhan-016/SRAM) |
+| **TASNova Custom 32-bit Processor & Assembler** | Modular processor with assembler, supports customizable instruction sets, ALU, and reg file | SystemVerilog | [GitHub Repo](https://github.com/Jayavardhan-016/TASNova-A-Custom-32-bit-Processor-Assembler-) |
+| **25 Days of Verilog** | 25 daily mini-projects with RTL, testbench, and simulation waveforms | Verilog | [Repo](https://github.com/Jayavardhan-016/Verilog-Systemverilog) |
+| **Mini VLSI Projects** | Small SystemVerilog/Verilog designs: adders, counters, FSMs, demo code & testbenches | SystemVerilog, Verilog | [Repo](https://github.com/Jayavardhan-016/MINI-PROJECTS) |
+| **Automatic 4-Way Traffic Control** | Real-time traffic signal on 8051 microcontroller, Assembly & Proteus demo | ASM, 8051 | [Repo](https://github.com/Jayavardhan-016/4-Way-Traffic-Control-System-) |
+---
 ## 🚀 Featured Projects
 
 ### 🧠 SRAM Design Verification (RTL-to-Synthesis)
