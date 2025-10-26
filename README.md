@@ -60,15 +60,13 @@ Entry-Level Design Verification Engineer | Skilled in Verilog, SystemVerilog & U
 - Winner: ISHIP1 Innovation Challenge
 
 ---
-
 ### 📊 **GitHub Stats**
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayavardhan-016&show_icons=true&locale=en&layout=compact" alt="Jayavardhan-016" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayavardhan-016&" alt="Jayavardhan-016" /></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jayavardhan-016&show_icons=true&theme=radical">
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayavardhan-016&show_icons=true&locale=en&layout=compact&theme=radical" alt="Jayavardhan-016" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayavardhan-016&theme=radical" alt="Jayavardhan-016" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayavardhan-016&show_icons=true&theme=radical">
 </p>
+
 
 ---
 
